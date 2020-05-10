@@ -1,0 +1,252 @@
+{
+    "data": {
+      "abdomen": {
+        "delivery": [
+          {
+            "id": 1,
+            "name": "蔬菜",
+            "url": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1588751154895&di=f32deb2b9d66c4efeac93abd0f8700f3&imgtype=0&src=http%3A%2F%2Fku.90sjimg.com%2Felement_origin_min_pic%2F18%2F07%2F22%2Ff505275bef0811c626da7f0a8b0c43e1.jpg%2521%2Ffwfh%2F804x798%2Fquality%2F90%2Funsharp%2Ftrue%2Fcompress%2Ftrue"
+          },
+          {
+            "id": 2,
+            "name": "海鲜",
+            "url": "https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=3444526642,720593218&fm=26&gp=0.jpg"
+          },
+          {
+            "id": 3,
+            "name": "豆制品",
+            "url": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1588949969732&di=4817e8af3febc3cb220f0555d6b8d4c8&imgtype=0&src=http%3A%2F%2Fbpic.588ku.com%2Felement_origin_min_pic%2F16%2F07%2F19%2F15578ddd68a07c0.jpg"
+          },
+          {
+            "id": 4,
+            "name": "水果",
+            "url": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1588949526868&di=c142e09e197fc9f62cf83bc4084c946e&imgtype=0&src=http%3A%2F%2Fbpic.588ku.com%2Felement_origin_min_pic%2F18%2F03%2F01%2Fe3c471c99b02ac4c80057a7f34a89843.jpg"
+          },
+          {
+            "id": 5,
+            "name": "肉禽蛋",
+            "url": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1588949662224&di=038849eb084f88bd26f8b4ed969a7004&imgtype=0&src=http%3A%2F%2Fku.90sjimg.com%2Felement_origin_min_pic%2F17%2F01%2F08%2F9f7bb12934d4ab73ebfde323f7526f70.jpg"
+          },
+          {
+            "id": 6,
+            "name": "奶酪芝士",
+            "url": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1588751487853&di=651f49e579b06beae076ffcb84c89aa5&imgtype=0&src=http%3A%2F%2Fimg4.imgtn.bdimg.com%2Fit%2Fu%3D1973168684%2C2283459982%26fm%3D214%26gp%3D0.jpg"
+          },
+          {
+            "id": 7,
+            "name": "酒类",
+            "url": "https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=706280864,3570815804&fm=26&gp=0.jpg"
+          },
+          {
+            "id": 8,
+            "name": "奶茶饮料",
+            "url": "https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=3408899492,3388361341&fm=26&gp=0.jpg"
+          },
+          {
+            "id": 9,
+            "name": "休闲食品",
+            "url": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1588949692498&di=f81a6c110dacd412771bf0dcc8899c3f&imgtype=0&src=http%3A%2F%2Fku.90sjimg.com%2Felement_origin_min_pic%2F18%2F08%2F14%2F270d00cbc017d4e25d2b1fec3fda72ee.jpg"
+          },
+          {
+            "id": 10,
+            "name": "面条",
+            "url": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1588949885287&di=8016c667c79827bb5c6d1df8f9c8da73&imgtype=0&src=http%3A%2F%2Fimg3.duitang.com%2Fuploads%2Fitem%2F201503%2F21%2F20150321205715_nRSnh.jpeg"
+          }
+        ],
+        "slide": [
+          {
+            "id": 1,
+            "name": "红甜椒",
+            "desc":"红甜椒红甜椒红甜椒红甜椒",
+            "preferential":13.9,
+            "original":24.9,
+            "url": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1588750623043&di=e1b860089766fd1891ea8a52d0757aca&imgtype=0&src=http%3A%2F%2Ffile03.sg560.com%2Fupimg01%2F2016%2F01%2F850914%2FTitle%2F1431178383775067850914.jpg"
+          },
+          {
+            "id": 2,
+            "name": "玉米",
+            "preferential":7.9,
+            "original":12.9,
+            "url": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1588750623043&di=742db990cb1f66fd26d276c6a16f01bd&imgtype=0&src=http%3A%2F%2Fhbimg.b0.upaiyun.com%2Fa363d9df9161b7892bd1761c905438ed4caf8faa1003c-fWEKAq_fw658"
+          },
+          {
+            "id": 3,
+            "name": "黄瓜",
+            "preferential":1.9,
+            "original":5.9,
+            "url": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1588750623042&di=697439b0f1f205b25c987f9a042337fb&imgtype=0&src=http%3A%2F%2Fimage-swws.258.com%2F1%2F2016%2F0731%2F15%2F579da72093fec.jpg"
+          },
+          {
+            "id": 4,
+            "name": "南瓜",
+            "preferential":5.9,
+            "original":9.9,
+            "url": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1588750658273&di=33e88744f8f5013b64554c70081e947a&imgtype=0&src=http%3A%2F%2Fimg4.imgtn.bdimg.com%2Fit%2Fu%3D3041065944%2C3830353032%26fm%3D214%26gp%3D0.jpg"
+          },
+          {
+            "id": 5,
+            "name": "西红柿",
+            "preferential":6.9,
+            "original":12.9,
+            "url": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1588750623041&di=34ffaf8293eae3a303f02a79e6afc832&imgtype=0&src=http%3A%2F%2Flfx.huishare.cn%2Fuploads%2Fallimg%2F180316%2F1-1P316121F6225.jpg"
+          },
+          {
+            "id": 6,
+            "name": "鸡腿",
+            "preferential":15.9,
+            "original":28.9,
+            "url": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1588750623038&di=0380373fcc627ac43232f41c55c475c8&imgtype=0&src=http%3A%2F%2Fimg3.duitang.com%2Fuploads%2Fitem%2F201410%2F24%2F20141024064925_VSyRE.thumb.700_0.jpeg"
+          },
+          {
+            "id": 7,
+            "name": "黄花鱼",
+            "preferential":23.9,
+            "original":31.9,
+            "url": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1588750718126&di=eccebc714edbf7dbf39d40ca8701ea92&imgtype=0&src=http%3A%2F%2Fimg1.imgtn.bdimg.com%2Fit%2Fu%3D3262360276%2C3136904353%26fm%3D214%26gp%3D0.jpg"
+          },
+          {
+            "id": 8,
+            "name": "洗手液",
+            "preferential":15.9,
+            "original":22.9,
+            "url": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1588750623034&di=dbadb863a90bb5de3f360d671e6382da&imgtype=0&src=http%3A%2F%2Fn.sinaimg.cn%2Fsinacn%2Fw1200h801%2F20171207%2F7f15-fypnsin6784447.jpg"
+          }
+        ],
+        "newgoods": [
+          {
+            "id": 1,
+            "name": "荔枝",
+            "url": "https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=3341897410,3660919731&fm=26&gp=0.jpg"
+          },
+          {
+            "id": 2,
+            "name": "竹笋",
+            "url": "https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=2026119591,2880464804&fm=26&gp=0.jpg"
+          }
+        ],
+        "maygoods": [
+          
+          {
+            "id": 1,
+            "name": "车厘子",
+            "url": "https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=2038337786,631948559&fm=26&gp=0.jpg"
+          },
+          {
+            "id": 2,
+            "name": "黄瓜",
+            "url": "https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=3287198091,3141838377&fm=26&gp=0.jpg"
+          }
+        ],
+        "paritygoods": [
+          {
+            "id": 1,
+            "name": "莲藕",
+            "url": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1589040930976&di=dcee8c48db9dd4f15c069eed19f7f63d&imgtype=0&src=http%3A%2F%2Fimg.yzcdn.cn%2Fupload_files%2F2017%2F11%2F10%2FFmVHOUdQHlAtbZQ6s7la6wClcjCg.jpg%3FimageView2%2F2%2Fw%2F580%2Fh%2F580%2Fq%2F75%2Fformat%2Fjpg"
+          },
+          {
+            "id": 2,
+            "name": "玉米",
+            "url": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1589040992447&di=cd8260d182adb7310a556bf52c870357&imgtype=0&src=http%3A%2F%2Fp2.ssl.cdn.btime.com%2Ft011000f64c22bd1118.jpg%3Fsize%3D800x526%3Fsize%3D800x526"
+          }
+        ],
+        "weekgoods": [
+          {
+            "id": 1,
+            "name": "油菜",
+            "url": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1589041064994&di=cceda5c8de063bf7984a5d2ecf669f85&imgtype=0&src=http%3A%2F%2Fn.sinaimg.cn%2Fsinacn12%2F0%2Fw800h800%2F20180514%2F6fa0-hapkuvk3621623.jpg"
+          },
+          {
+            "id": 2,
+            "name": "鸡蛋",
+            "url": "https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=2941213398,3144944579&fm=26&gp=0.jpg"
+          }
+        ],
+        "major": [
+          {
+            "id": 1,
+            "name": "商城•大牌超值汇",
+            "url": "https://raw.githubusercontent.com/lps243492947/learn_git/master/vue-demo/KFC/kfc/images/sy/%E5%95%86%E5%9F%8E%E5%A4%A7%E7%89%8C%E8%B6%85%E5%80%BC%E6%B1%871.png"
+          },
+          {
+            "id": 2,
+            "name": "商城•大牌超值汇",
+            "url": "https://raw.githubusercontent.com/lps243492947/learn_git/master/vue-demo/KFC/kfc/images/sy/%E5%95%86%E5%9F%8E%E5%A4%A7%E7%89%8C%E8%B6%85%E5%80%BC%E6%B1%872.png"
+          },
+          {
+            "id": 3,
+            "name": "商城•大牌超值汇",
+            "url": "https://raw.githubusercontent.com/lps243492947/learn_git/master/vue-demo/KFC/kfc/images/sy/%E5%95%86%E5%9F%8E%E5%A4%A7%E7%89%8C%E8%B6%85%E5%80%BC%E6%B1%873.png"
+          },
+          {
+            "id": 4,
+            "name": "商城•大牌超值汇",
+            "url": "https://raw.githubusercontent.com/lps243492947/learn_git/master/vue-demo/KFC/kfc/images/sy/%E5%95%86%E5%9F%8E%E5%A4%A7%E7%89%8C%E8%B6%85%E5%80%BC%E6%B1%874.png"
+          },
+          {
+            "id": 5,
+            "name": "商城•大牌超值汇",
+            "url": "https://raw.githubusercontent.com/lps243492947/learn_git/master/vue-demo/KFC/kfc/images/sy/%E5%95%86%E5%9F%8E%E5%A4%A7%E7%89%8C%E8%B6%85%E5%80%BC%E6%B1%875.png"
+          },
+          {
+            "id": 6,
+            "name": "商城•大牌超值汇",
+            "url": "https://raw.githubusercontent.com/lps243492947/learn_git/master/vue-demo/KFC/kfc/images/sy/%E5%95%86%E5%9F%8E%E5%A4%A7%E7%89%8C%E8%B6%85%E5%80%BC%E6%B1%876.png"
+          }
+        ],
+        "K-MUSIC": [
+          {
+            "id": 1,
+            "name": "K-Music",
+            "url": "https://raw.githubusercontent.com/lps243492947/learn_git/master/vue-demo/KFC/kfc/images/sy/K-MUSIC1.png"
+          },
+          {
+            "id": 2,
+            "name": "K-Music",
+            "url": "https://raw.githubusercontent.com/lps243492947/learn_git/master/vue-demo/KFC/kfc/images/sy/K-MUSIC2.png"
+          },
+          {
+            "id": 3,
+            "name": "K-Music",
+            "url": "https://raw.githubusercontent.com/lps243492947/learn_git/master/vue-demo/KFC/kfc/images/sy/K-MUSIC3.png"
+          },
+          {
+            "id": 4,
+            "name": "K-Music",
+            "url": "https://raw.githubusercontent.com/lps243492947/learn_git/master/vue-demo/KFC/kfc/images/sy/K-MUSIC4.png"
+          },
+          {
+            "id": 5,
+            "name": "K-Music",
+            "url": "https://raw.githubusercontent.com/lps243492947/learn_git/master/vue-demo/KFC/kfc/images/sy/K-MUSIC5.png"
+          }
+        ],
+        "bookworm": [
+          {
+            "id": 1,
+            "name": "小书迷王国",
+            "url": "https://raw.githubusercontent.com/lps243492947/learn_git/master/vue-demo/KFC/kfc/images/sy/%E5%B0%8F%E4%B9%A6%E8%BF%B7%E7%8E%8B%E5%9B%BD1.png"
+          },
+          {
+            "id": 2,
+            "name": "小书迷王国",
+            "url": "https://raw.githubusercontent.com/lps243492947/learn_git/master/vue-demo/KFC/kfc/images/sy/%E5%B0%8F%E4%B9%A6%E8%BF%B7%E7%8E%8B%E5%9B%BD2.png"
+          },
+          {
+            "id": 3,
+            "name": "小书迷王国",
+            "url": "https://raw.githubusercontent.com/lps243492947/learn_git/master/vue-demo/KFC/kfc/images/sy/%E5%B0%8F%E4%B9%A6%E8%BF%B7%E7%8E%8B%E5%9B%BD3.png"
+          },
+          {
+            "id": 4,
+            "name": "小书迷王国",
+            "url": "https://raw.githubusercontent.com/lps243492947/learn_git/master/vue-demo/KFC/kfc/images/sy/%E5%B0%8F%E4%B9%A6%E8%BF%B7%E7%8E%8B%E5%9B%BD4.png"
+          },
+          {
+            "id": 5,
+            "name": "小书迷王国",
+            "url": "https://raw.githubusercontent.com/lps243492947/learn_git/master/vue-demo/KFC/kfc/images/sy/%E5%B0%8F%E4%B9%A6%E8%BF%B7%E7%8E%8B%E5%9B%BD5.png"
+          }
+        ]
+      }
+    }
+  }
